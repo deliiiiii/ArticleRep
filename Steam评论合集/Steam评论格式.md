@@ -1,4 +1,4 @@
-![img](https://eirtvbo0git.feishu.cn/space/api/box/stream/download/asynccode/?code=OTgzYzI2Mzk5M2RhYjBiMzNiMGM4ODUzMTRmZjQxNzFfa3FISldFSEVodzQ4RGhxeEk0dWJudXY0UEFlZ3p4ZlVfVG9rZW46RU9SSWJMekt5b1BFR0J4WkxRdmN6VEhiblBlXzE3Mzg5MzU1MDI6MTczODkzOTEwMl9WNA)
+![img](https://raw.githubusercontent.com/deliiiiii/PictureRep/main/24/9/E68737829235D05AB794702F0E19FF5C129FAB28)
 
 **文本格式**
 
