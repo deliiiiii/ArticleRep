@@ -130,11 +130,11 @@ class Item
 
 ## 物品-柜台上卖家视角
 
-（自然语言描述版）
+![image-20250207233430423](https://raw.githubusercontent.com/deliiiiii/PictureRep/main/24/9/image-20250207233430423.png)
+
+（自然语言描述版）相比于买家视角没有什么新增的，除了“已付”。
 
 - 已付：一般情况下是会出现已付的，但<u>通过各种渠道白嫖来的物品，“已付”不会出现，卖掉时不会显示利润比率</u>
-
-![image-20250207233430423](https://raw.githubusercontent.com/deliiiiii/PictureRep/main/24/9/image-20250207233430423.png)
 
 （简写版）
 
@@ -154,6 +154,12 @@ struct ItemData
 
 
 ## 物品-仓库内视角
+
+![屏幕截图 2025-02-04 210806](https://raw.githubusercontent.com/deliiiiii/PictureRep/main/24/9/屏幕截图 2025-02-04 210806.jpg)
+
+
+
+![image-20250208004351546](https://raw.githubusercontent.com/deliiiiii/PictureRep/main/24/9/image-20250208004351546.png)
 
 （自然语言描述版）
 
@@ -269,10 +275,6 @@ class Item
     List<ItemSmallAttributeType> itemSmallAttributeTypes;
 }
 ```
-
-![屏幕截图 2025-02-04 210806](https://raw.githubusercontent.com/deliiiiii/PictureRep/main/24/9/屏幕截图 2025-02-04 210806.jpg)
-
-![image-20250208004351546](https://raw.githubusercontent.com/deliiiiii/PictureRep/main/24/9/image-20250208004351546.png)
 
 
 
