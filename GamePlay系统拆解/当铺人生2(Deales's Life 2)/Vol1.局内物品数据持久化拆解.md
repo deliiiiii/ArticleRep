@@ -157,6 +157,8 @@ struct ItemData
 
 ![屏幕截图 2025-02-04 210806 ](D:\SAVE\Assignment\Semester5\aa-Memo\AAA珍宝要术\当铺人生2\屏幕截图 2025-02-04 210806 .jpg)
 
+（变成复制品后）
+
 ![image-20250208004351546](https://raw.githubusercontent.com/deliiiiii/PictureRep/main/24/9/image-20250208004351546.png)
 
 （自然语言描述版）
