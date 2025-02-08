@@ -72,6 +72,7 @@ struct ItemData
     //估价是可空long
     long? estimatedPrice;
     long? paidPrice;
+    long? earnedPrice;
     bool estimatedByExpert;
     ItemOccupyInfo itemOccupyInfo;
 }   
@@ -89,4 +90,19 @@ class Item
     string itemDescription;
     //iii 根据itemData中的itemBigAttributeTypes读，加一个VeryGood特判
     List<ItemSmallAttributeType> itemSmallAttributeTypes;
+}
+
+
+struct ItemCatelogue
+{
+    string itemName;
+    bool gainedEver;
+}
+
+struct ItemShowCase
+{
+    List<ItemCatelogue> itemCatelogues;
+    List<ItemData> highestSales;
+    List<ItemData> highestPurchases;
+    List<ItemData> personalCollections;
 }
